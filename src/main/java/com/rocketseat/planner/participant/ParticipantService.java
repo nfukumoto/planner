@@ -1,7 +1,6 @@
 package com.rocketseat.planner.participant;
 
 import com.rocketseat.planner.trip.Trip;
-import org.hibernate.boot.model.source.spi.SizeSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
